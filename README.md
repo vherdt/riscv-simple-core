@@ -1,3 +1,8 @@
+Simple RISC-V Core
+==================
+
+A simple RISC-V 32 bit processor with a set of basic software examples for educational purposes. The processor implements the RV32IZicsr instruction set and supports lightweight operating systems such as FreeRTOS.
+
 1) Build SW application
 -----------------------
 
